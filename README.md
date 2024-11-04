@@ -7,3 +7,7 @@
 📫 How to contact me tg: @choppa_id
 😄 Pronouns: I am currently studying QA tester courses
 ⚡ Fun fact: I play chess well
+
+
+Мои проекты:
+Проект 1 - [проект](https://docs.google.com/document/d/1Mhk-KvOl3vJvpjyhA4w3pRiflg-MqVGM/edit?usp=sharing&ouid=113854078229397976610&rtpof=true&sd=true)
