@@ -14,6 +14,6 @@
 <<<<<<< HEAD
 =======
     
->>>>>>> 2849e4cb47e77040831fd4e1acfac996a15f5d27
+>>>>>>> 
 Мои проекты:
 Проект 1 - [проект](https://docs.google.com/document/d/1Mhk-KvOl3vJvpjyhA4w3pRiflg-MqVGM/edit?usp=sharing&ouid=113854078229397976610&rtpof=true&sd=true)
