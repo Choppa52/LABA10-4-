@@ -1,12 +1,12 @@
 # LABA10-4-
 
-👋 Hi, I’m @Choppa52
-👀 I’m interested in the opportunity to learn new things.
-🌱 I’m currently studying: I have completed the courses, I am studying at the final course.
-💞️ I’m ready to cooperate: With any partner, just to gain experience
-📫 How to contact me tg: @choppa_id
-😄 Pronouns: I am currently studying QA tester courses
-⚡ Fun fact: I play chess well
+👋 Привет, я @Choppa52
+👀 Меня интересует возможность узнать что-то новое.
+🌱 В данный момент я учусь: закончил курсы, учусь на выпускном курсе.
+💞️ Я готова сотрудничать: С любым партнером, лишь бы набраться опыта
+📫 Как со мной связаться: @choppa_id
+😄 Местоимения: В настоящее время я учусь на курсах QA-тестировщика
+⚡ Интересный факт: Я хорошо играю в шахматы
 
 
 Мои проекты:
